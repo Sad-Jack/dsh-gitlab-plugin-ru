@@ -1,0 +1,6 @@
+{
+	"meta": {
+		"title": "GitLab",
+		"description": "Merge requests, review threads and pipelines in DeepSeek Harness, over GitLab's REST API with a personal access token."
+	}
+}

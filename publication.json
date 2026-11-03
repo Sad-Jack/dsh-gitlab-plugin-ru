@@ -1,0 +1,14 @@
+{
+  "repository": "Sad-Jack/dsh-gitlab-plugin-ru",
+  "package": "dsh-gitlab-plugin",
+  "version": "0.4.1-ru.3",
+  "upstream": "https://github.com/k0ndrateff/dsh-plugins/tree/main/packages/gitlab",
+  "upstreamVersion": "0.4.1",
+  "license": "MIT",
+  "snapshotType": "localized-runtime-package",
+  "originalRepositoryMetadata": {
+    "type": "git",
+    "url": "git+https://github.com/k0ndrateff/dsh-plugins.git",
+    "directory": "packages/gitlab"
+  }
+}
